@@ -1,0 +1,14 @@
+{
+  "name": "modding",
+  "tree": {
+    "$className": "DataModel",
+    "ReplicatedStorage": {
+      "YSMM": {
+        "$path": "src/YSMM"
+      },
+      "YGENV": {
+        "$path": "src/ygenv"
+      }
+    }
+  }
+}
