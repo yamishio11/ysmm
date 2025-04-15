@@ -5,7 +5,7 @@ S: Shio
 M: Modding
 M: Module
 
-A incredibly simple wrapper for vLuau that allows secure calling of luau code with function blacklisting and custom global support.
+An incredibly simple wrapper for vLuau that allows secure calling of luau code with function blacklisting and custom global support.
 
 ## Usage
 
